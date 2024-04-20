@@ -1,0 +1,7 @@
+﻿495 Checkpoint #1
+
+
+Main Challenges:
+* Honestly so far the biggest challenges I’ve had so far have all been with my virtual environment. From disappearing to unknown locations to completely crashing I have learned a lot about virtual environments.
+* I have since learned to make sure my venv is in my workspace and that I do not start off with multiple venv open. 
+* For the classification itself I have honestly just not made enough progress. I believe now that I have the back bone and the structure figured out I will be able to train and test on my imported data.
