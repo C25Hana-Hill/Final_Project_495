@@ -1,0 +1,9 @@
+﻿495 Checkpoint #2
+
+---The biggest challenge so far was being able to create the layers for the model. I struggle with the errors about not having proper connections. 
+
+----I also had the error of not having the data stored in the proper place so when I tested I originally thought I did super good because I was testing on my train data.
+    but once I realized I was using the wrong data I readjusted and then eventually got to 80% accuracy which I’m super stoked about. 
+
+---Initially I had 200 epochs so my program was taking hours to run but once I lowered my epoch down it could finish training quicker. 
+    This did lower the accuracy a little but I was surprised with how well the model still performed. 
